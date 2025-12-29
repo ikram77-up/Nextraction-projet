@@ -1,0 +1,89 @@
+[
+    {
+    "startup_id": "cloud_ops",
+    "doc_id": "pitch_2024",
+    "section": "Produit",
+    "chunk_id": "cloud_ops_product_1",
+    "text": "La plateforme automatise le déploiement et la surveillance des infrastructures cloud à l’aide de scripts intelligents et de dashboards temps réel."
+  },
+  {
+   "startup_id": "cloud_ops",
+    "doc_id": "pitch_2024",
+    "section": "Traction",
+    "chunk_id": "cloud_ops_traction_1",
+    "text": "Plus de 120 entreprises utilisent la solution pour gérer leurs environnements AWS et Azure avec une réduction des incidents de 35 %."
+  },
+   {
+    "startup_id": "cloud_ops",
+    "doc_id": "pitch_2024",
+    "section": "Risques",
+    "chunk_id": "cloud_ops_risk_1",
+    "text": "La dépendance aux fournisseurs cloud et les changements fréquents d’API représentent un risque technique."
+  },
+
+  {
+    "startup_id": "cyber_guard",
+    "doc_id": "security_overview",
+    "section": "Produit",
+    "chunk_id": "cyber_guard_product_1",
+    "text": "La solution détecte automatiquement les failles de sécurité dans les applications web grâce à des scans continus et à l’analyse comportementale."
+  },
+  {
+    "startup_id": "cyber_guard",
+    "doc_id": "security_overview",
+    "section": "Traction",
+    "chunk_id": "cyber_guard_traction_1",
+    "text": "La plateforme protège plus de 500 applications web et a identifié plus de 10 000 vulnérabilités critiques."
+  },
+  {
+    "startup_id": "cyber_guard",
+    "doc_id": "security_overview",
+    "section": "Risques",
+    "chunk_id": "cyber_guard_risk_1",
+    "text": "Les faux positifs et la complexité d’intégration avec certains systèmes legacy constituent des défis."
+  },
+
+  {
+    "startup_id": "data_analytics_ai",
+    "doc_id": "overview",
+    "section": "Produit",
+    "chunk_id": "data_analytics_product_1",
+    "text": "La plateforme fournit des tableaux de bord analytiques basés sur l’intelligence artificielle pour faciliter la prise de décision."
+  },
+  {
+    "startup_id": "data_analytics_ai",
+    "doc_id": "overview",
+    "section": "Traction",
+    "chunk_id": "data_analytics_traction_1",
+    "text": "Plus de 200 équipes data utilisent la solution pour analyser des millions de lignes de données quotidiennement."
+  },
+  {
+    "startup_id": "data_analytics_ai",
+    "doc_id": "overview",
+    "section": "Risques",
+    "chunk_id": "data_analytics_risk_1",
+    "text": "La qualité des résultats dépend fortement de la qualité et de la gouvernance des données sources."
+  },
+
+  {
+    "startup_id": "devops_toolkit",
+    "doc_id": "deck",
+    "section": "Produit",
+    "chunk_id": "devops_toolkit_product_1",
+    "text": "La solution automatise les pipelines CI/CD et améliore la collaboration entre les équipes de développement et d’exploitation."
+  },
+  {
+    "startup_id": "devops_toolkit",
+    "doc_id": "deck",
+    "section": "Traction",
+    "chunk_id": "devops_toolkit_traction_1",
+    "text": "Plus de 800 équipes utilisent la plateforme pour réduire le temps de déploiement de 40 %."
+  },
+  {
+    "startup_id": "devops_toolkit",
+    "doc_id": "deck",
+    "section": "Risques",
+    "chunk_id": "devops_toolkit_risk_1",
+    "text": "La complexité des environnements CI/CD hétérogènes peut ralentir l’adoption initiale."
+  }
+]
