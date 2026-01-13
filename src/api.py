@@ -1,12 +1,16 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
+from pathlib import Path
 from src.indexer  import Indexer
 from src.search import bm25_search, semantic_search, reciprocal_rank_fusion
 from src.rerank import ReRanker
 
 app = FastAPI(title="Nextraction Search API")
 # upload model une fois
-indexer = Indexer("data/corpus.json")
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_PATH = BASE_DIR / "data" / "corpus.json"
+
+indexer = Indexer(DATA_PATH)
 indexer.load_data()
 indexer.build_indexes()
 
